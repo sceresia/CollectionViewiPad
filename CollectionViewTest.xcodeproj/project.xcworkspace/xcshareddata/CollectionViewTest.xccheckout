@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54820183-C3EF-4A66-B7B5-CB6089B10A1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CollectionViewTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08FD6DC470B7322E7CC1A638F07496FAD81E205B</key>
+		<string>bitbucket.org:sceresia/collectionviewtest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CollectionViewTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08FD6DC470B7322E7CC1A638F07496FAD81E205B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:sceresia/collectionviewtest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08FD6DC470B7322E7CC1A638F07496FAD81E205B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08FD6DC470B7322E7CC1A638F07496FAD81E205B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CollectionViewTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
